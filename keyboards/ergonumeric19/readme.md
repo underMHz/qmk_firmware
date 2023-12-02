@@ -1,8 +1,8 @@
 # ergonumeric19
 
-![ergonumeric19](https://imgur.com/a/iZUZUy0)
+![ergonumeric19](https://i.imgur.com/r823PlH.jpeg)
 
-*A short description of the keyboard/project*
+A keyboard that can be used with either the right or left hand, based on the numeric keypad.
 
 * Keyboard Maintainer: [underMHz](https://github.com/underMHz)
 * Hardware Supported: *The PCBs, controllers supported*
